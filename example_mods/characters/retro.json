@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "retro dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "retro left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "retro down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "retro right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "retro up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Retro_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		50,
+		212
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999997
+}

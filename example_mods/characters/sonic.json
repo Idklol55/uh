@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic_LeftNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic_DownNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic_UpNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic_RightNote",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Sonic_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				13,
+				13
+			],
+			"name": "Sonic_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sonic_LeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Sonic_DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				78
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sonic_UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				36
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sonic_RightMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeah",
+			"indices": [],
+			"name": "Sonic_YEAH"
+		},
+		{
+			"offsets": [
+				14,
+				183
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "yeah-loop",
+			"indices": [
+				40,
+				40
+			],
+			"name": "Sonic_YEAH"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "skid",
+			"fps": 24,
+			"name": "Sonic_Skid",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sync",
+			"loop": false,
+			"name": "Sonic_Lipsync"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.7,
+	"scale": 1
+}

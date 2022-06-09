@@ -1,0 +1,5 @@
+Set Pos
+
+Value 1: Object Name + '.x' or '.y'
+
+Value 2: New Value

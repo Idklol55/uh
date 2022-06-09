@@ -1,0 +1,40 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"difficulties": "hard",
+	"weekBackground": "lol!",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"weekBefore": "sussies",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"d",
+		"d",
+		"PENIS!"
+	],
+	"songs": [
+		[
+			"Extrapolator",
+			"im",
+			[
+				51,
+				102,
+				255
+			]
+		],
+		[
+			"Eclipse",
+			"dark",
+			[
+				43,
+				30,
+				52
+			]
+		]
+	],
+	"weekName": "sussies"
+}

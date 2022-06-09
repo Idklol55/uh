@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Proto IDLE"
+		},
+		{
+			"offsets": [
+				90,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Proto LEFT"
+		},
+		{
+			"offsets": [
+				-41,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Proto DOWN"
+		},
+		{
+			"offsets": [
+				29,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Proto UP"
+		},
+		{
+			"offsets": [
+				-71,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Proto RIGHT"
+		},
+		{
+			"offsets": [
+				714,
+				770
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "explode",
+			"indices": [],
+			"name": "big boomboom"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				770
+			],
+			"anim": "idle-dead",
+			"fps": 24,
+			"name": "big boomboom",
+			"indices": [
+				34,
+				34
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Proto_Silver_Sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "silver",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		228,
+		228
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 7,
+	"scale": 1
+}

@@ -1,0 +1,6 @@
+Sets Camera Zoom
+
+Value 1: Cam zoom
+
+Value 2: type in 'true' to disable cam zooms in the stage onupdate, 
+type in anything else to turn it back on

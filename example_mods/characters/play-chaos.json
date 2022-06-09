@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Terios IDLE CHAOS"
+		},
+		{
+			"offsets": [
+				127,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Terios UP CHAOS"
+		},
+		{
+			"offsets": [
+				94,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Terios LEFT CHAOS"
+		},
+		{
+			"offsets": [
+				43,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Terios RIGHT CHAOS"
+		},
+		{
+			"offsets": [
+				190,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Terios DOWN CHAOS"
+		},
+		{
+			"offsets": [
+				6,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "suck",
+			"indices": [],
+			"name": "Terios SUCK"
+		},
+		{
+			"offsets": [
+				129,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chaos",
+			"indices": [],
+			"name": "Terios CHAOS"
+		},
+		{
+			"offsets": [
+				92,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Terios LEFT CHAOS"
+		},
+		{
+			"offsets": [
+				123,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Terios UP CHAOS"
+		},
+		{
+			"offsets": [
+				205,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Terios DOWN CHAOS"
+		},
+		{
+			"offsets": [
+				39,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Terios RIGHT CHAOS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Terios IDLE CHAOS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-490,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "box",
+			"indices": [],
+			"name": "Terios BOX"
+		},
+		{
+			"offsets": [
+				41,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-bruh",
+			"indices": [],
+			"name": "Terios BRUH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/terios",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "terios",
+	"flip_x": true,
+	"healthbar_colors": [
+		98,
+		85,
+		101
+	],
+	"camera_position": [
+		-140,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

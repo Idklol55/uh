@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SAI IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				357,
+				-232
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SAI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				-82
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SAI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SAI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				-411
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SAI_DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonAI_exe",
+	"position": [
+		140,
+		-40
+	],
+	"healthicon": "im",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		102,
+		255
+	],
+	"camera_position": [
+		-80,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

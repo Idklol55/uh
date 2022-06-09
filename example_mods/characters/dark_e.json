@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-mad-loop",
+			"fps": 24,
+			"name": "Dark Sonic IDLE",
+			"indices": [
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dark Sonic LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dark Sonic UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-mad",
+			"fps": 24,
+			"name": "Dark Sonic IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dark Sonic DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dark Sonic RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "idle-bruh",
+			"fps": 24,
+			"name": "Dark Sonic BRUH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sonic is MAD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkSonic_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dark",
+	"flip_x": true,
+	"healthbar_colors": [
+		43,
+		30,
+		52
+	],
+	"camera_position": [
+		-500,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

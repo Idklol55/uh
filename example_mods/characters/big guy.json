@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EXE IDLE"
+		},
+		{
+			"offsets": [
+				307,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EXE LEFT"
+		},
+		{
+			"offsets": [
+				66,
+				-262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EXE RIGHT"
+		},
+		{
+			"offsets": [
+				185,
+				-271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EXE DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EXE UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Imposter Sonic",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "im",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		102,
+		255
+	],
+	"camera_position": [
+		-80,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 2.95
+}

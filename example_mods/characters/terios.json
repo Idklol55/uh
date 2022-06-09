@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Terios IDLE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Terios UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Terios LEFT 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Terios RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Terios DOWN 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Terios IDLE CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				72
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Terios UP CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				40
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Terios LEFT CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Terios RIGHT CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-50
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Terios DOWN CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-8
+			],
+			"anim": "suck",
+			"fps": 24,
+			"name": "Terios SUCK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				162
+			],
+			"anim": "chaos",
+			"fps": 24,
+			"name": "Terios CHAOS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/terios",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "terios",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		105,
+		101
+	],
+	"camera_position": [
+		-10,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "met",
+		"player1": "bf",
+		"player2": "exe",
+		"player3": null,
+		"events": [
+			[
+				38419.3548387097,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				50903.2258064516,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				63193.5483870968,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				75580.6451612904,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1.5"
+					]
+				]
+			],
+			[
+				87967.741935484,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.5"
+					]
+				]
+			],
+			[
+				112741.935483871,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ages"
+	}
+}

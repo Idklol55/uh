@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Terios IDLE CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Terios UP CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Terios LEFT CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Terios RIGHT CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Terios DOWN CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-8
+			],
+			"anim": "suck",
+			"fps": 24,
+			"name": "Terios SUCK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				162
+			],
+			"anim": "chaos",
+			"fps": 24,
+			"name": "Terios CHAOS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Terios HA0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/terios",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "terios",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		105,
+		101
+	],
+	"camera_position": [
+		-10,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,3 @@
+Explode event
+
+Value 1: Character [dad, boyfriend, gf]

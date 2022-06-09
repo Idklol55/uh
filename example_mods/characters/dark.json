@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dark Sonic LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dark Sonic RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dark Sonic UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic is MAD0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-mad",
+			"fps": 24,
+			"name": "Dark Sonic IDLE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dark Sonic DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				23
+			],
+			"anim": "regret",
+			"fps": 24,
+			"name": "Sonic regretthat0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-mad-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "Dark Sonic IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkSonic_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dark",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		30,
+		52
+	],
+	"camera_position": [
+		60,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

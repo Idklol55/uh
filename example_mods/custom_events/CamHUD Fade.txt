@@ -1,0 +1,5 @@
+Fades the HUD in or out
+
+Value 1: value to fade (1 = fade in, 0 = fade out)
+
+Value 2: Duration
